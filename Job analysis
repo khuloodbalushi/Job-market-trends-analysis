@@ -1,0 +1,13 @@
+job = input("Enter job title: ")
+
+if job == "Data Analyst":
+    print("High Demand")
+
+elif job == "Accountant":
+    print("Medium Demand")
+
+elif job == "Graphic Designer":
+    print("Low Demand")
+
+else:
+    print("Job not found")
