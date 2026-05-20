@@ -11,3 +11,4 @@ elif job == "Graphic Designer":
 
 else:
     print("Job not found")
+print("Salary prediction feature added")
