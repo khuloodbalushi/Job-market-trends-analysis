@@ -1,7 +1,7 @@
 job = input("Enter job title: ")
 
 if job == "Data Analyst":
-    print("High Demand")
+        print("Medium-High Demand")
 
 elif job == "Accountant":
     print("Medium Demand")
